@@ -1,0 +1,92 @@
+
+body
+{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.borderline {
+    border: 3px solid gray;
+    width: 400px;
+    background-color: lavender;
+    padding: 5%;
+    font-style: normal;
+
+}
+.recipe {
+border: 5px solid lavender
+}
+.divider {
+    border: 2px solid aliceblue;
+    padding: 1%;
+
+}
+img{
+    border: 1px solid black;
+    margin: 4%;
+    
+}
+
+.gallery{
+    margin: 5px;
+    border: 3px solid #ccc;
+    float: left;
+    width: 330px;
+    font-style: italic;
+    font-size: 20px;
+    background-color: lightslategray;
+}
+.desc{
+    padding: 25px;
+    text-align: center;
+    font-weight: 20px;
+    
+}
+.paragraph{
+    font-size: large;
+}
+.list{
+    font-size: large;
+}
+.index:visited{
+    color: red;
+}
+.index:hover {
+    color: aquamarine;
+}
+.index:active{
+    color: violet;
+}
+.click:hover{
+    color: red;
+}
+.click:active{
+    color: red;
+}
+.click:visited{
+    color:violet ;
+}
+
+.title:active{
+    color: aqua;
+}
+.title:visited{
+    color: red;
+}
+.title:hover{
+    color: chocolate;
+}
+.home{
+    color: brown;
+}
+.home:hover{
+    color: aquamarine;
+}
+.home:active{
+    color: chartreuse;
+}
+.post-3:visited{
+    color: coral;
+}
